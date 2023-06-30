@@ -1,0 +1,13 @@
+:host {
+  display: block;
+  width: 100%;
+  text-align: center;
+  padding: 1rem 0;
+  background: var(--clr-black);
+
+  p {
+    color: #fff;
+    font-size: 0.8125rem;
+    font-weight: var(--fw-400);
+  }
+}
